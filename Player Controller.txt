@@ -1,4 +1,11 @@
 public float speed;
 
 
-public float stamina;
+public float jumpForce;
+
+
+void start(){
+
+
+
+}
